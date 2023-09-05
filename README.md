@@ -8,15 +8,15 @@ The project link:https://teachablemachine.withgoogle.com/models/lS7ExmWdl/
 <br>
 THE OURPUT:
 <br><br>
-###### 1
+1
 <br>
 (https://github.com/Areej1basfar/Solving_a_problem_in_a_factory/assets/121516453/90a23e28-00c1-4328-bbbc-fd820ecc69db)
 <br>
-###### 2
+2
 <br>
 (https://github.com/Areej1basfar/Solving_a_problem_in_a_factory/assets/121516453/5c7e1052-f045-4304-b8fe-818223f69c6f)
 <br>
-###### 3
+3
 <br>
 (https://github.com/Areej1basfar/Solving_a_problem_in_a_factory/assets/121516453/86cbf303-5d4c-420a-952c-02d8a6fa8353)
 <br><br><br>
